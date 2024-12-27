@@ -85,7 +85,7 @@
 /* ........services.............. */
 
 .services{
-        background-image: url(Images/backserviimage.png);
+        background-image: url(backserviimage.png);
         background-repeat: no-repeat;
         background-size: cover;
         height: auto;
@@ -168,7 +168,7 @@
     text-align: justify;
 }
 .card_mysr_waynad{
-    background-image: url(Images/img\ \(2\).png);
+    background-image: url(img\ \(2\).png);
     height: 391px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -229,7 +229,7 @@
     border-radius: 15px;
     margin-top: 20px;
     height: 215px !important; 
-    background-image: url(Images/img2.png);
+    background-image: url(img2.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -270,7 +270,7 @@
     border-radius: 15px;
     margin-top: 20px;
     height: 215px !important; 
-    background-image: url(Images/Img_3.png);
+    background-image: url(Img_3.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
