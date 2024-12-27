@@ -33,8 +33,7 @@ Live Demo:
 https://nithishbv.github.io/Bindu_Tour_And_Travels_Project/bindu_html_first_page.html
 
 Repository:
-
-
+https://github.com/NITHISHBV/Bindu_Tour_And_Travels_Project
 
 Contact:
 
