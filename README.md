@@ -23,8 +23,10 @@ Technologies Used:
 HTML: Used for the structure of the website, ensuring proper layout and content placement.
 CSS: Applied for styling, including colors, fonts, and spacing, to enhance the visual appeal and maintain consistency across the pages.
 Bootstrap: Utilized to ensure responsive design, allowing the website to adjust seamlessly to different screen sizes, from mobile phones to desktop computers.
+
+
 Demo Link:
-To explore the website and see how Bindu Tours and Travels looks in action, please visit the Demo Link.
+https://nithishbv.github.io/Bindu_Tour_And_Travels_Project/bindu_html_first_page.html
 
 Contact Information:
 For inquiries or further information, you can reach out via email at bvnithish2002@gmail.com.
