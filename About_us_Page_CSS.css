@@ -1,0 +1,298 @@
+.logo_img{
+    width:  316px;
+    height: 120px;
+}
+.icon1{
+    margin-top: 17px; 
+    margin-left: 70px;
+}
+.icon2{
+    margin-top: 17px; 
+    margin-left: 22px;
+}
+.email_h6{
+        margin-top: 17px;
+        font-family: Poppins;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 25.5px;
+        margin-left: 43px !important;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #061D3C !important;
+}
+.email_p{
+    margin-top:-16px !important;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    margin-left: 43px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #373737 !important; 
+}
+.phone_no_h6{
+    margin-top: 17px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #061D3C;
+}
+.phone_no_p{
+    margin-top:-16px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #373737;
+}
+/* nav..................................... */
+.nav_a>.nav-link{
+    color: white;
+    
+}
+.nav_main{
+    margin-left: 75px;
+    background-color: navy;
+    border-top-left-radius: 37px;
+}
+
+/* ....about us .............. */
+.Welcome_h4{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color:  #061D3C; 
+}
+.bindu{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #D06527;
+}
+.welcome_p{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: justify;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2B2B2B;
+}
+.about_us_right_side_img1>img,.about_us_right_side_img2>img{
+    width: 146%;
+}
+.our_story{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: justified;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #D06527;
+}
+.founded{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: justify;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2B2B2B;
+}
+
+/* ......what sets apart................... */
+.what_set_apart{
+    height: 133px;
+    border-left: 6px solid rgba(41, 119, 218, 1);
+    border-radius: 5px;
+    padding: 8px;
+    margin: 15px 0px;
+    background-color: aliceblue;
+}
+.center_imgs{
+    width: 5%;
+}
+.what_heading{
+    text-align: center;
+    margin-top: 2px;
+}
+/* ............footer.............................. */
+.footer_main{
+    /* width: 100%; */
+    height: 275px;
+    top: 3291px;
+    gap: 0px;
+    opacity: 0px;
+    background: #061D3C;
+}
+.contact_infr_h5{
+    color: white;
+    background-color: #63AB45;
+    padding: 16px;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    text-align: center;
+}
+.phone_nmbr_h6{
+    color: #FFD000;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.phone_nmbr_p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.Address_h6{
+    color: #FFD000;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.Address_p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.footer_email_h6{
+    color: #FFD000;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.footer_email_p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.rights_reserved{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+}
+
+
+@media only screen and (max-width:628px){
+    .logo_img_img{
+        width: 100%;
+    }
+    .icon1>img{
+        width: 16%;
+        margin-left: -63px;
+        margin-top: -6px;
+    }
+    .email_icon_text{
+        margin-top: -56px;
+        margin-left: 34px;
+    }
+    .icon2>img{
+        width: 16%;
+        margin-left: -15px;
+    }
+    .phone_icon_text{
+        margin-top: -59px;
+        margin-left: 74px;
+    }
+    /* ....nav bar......... */
+    .nav_main{
+        background-color: white;
+    }
+    
+    .nav_a>.nav-link{
+        background-color: navy;
+        color: white;
+    }
+    .nav_tog{
+        margin-left: 195px;
+        margin-top: -57px;
+    }
+    .nav_icon{
+        font-size: 40px;
+    }
+/* ..........about content................. */
+    .about_us_right_side_img2>img{
+        width: 100%;
+    }
+    .about_us_right_side_img1>img{
+        width: 100%;
+    }
+    .profile_img>img{
+        height: 180px;
+        width: 150px;
+        margin-left: 68px;
+    }
+    .our_story{
+        text-align: center;
+    }
+    .tail{
+        height: 200px;
+    }
+    .what_heading>h4{
+        text-align: center;
+    }
+/* .......footer begins............ */
+    .footer_main{
+        height: 422px;
+    }
+}

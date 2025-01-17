@@ -1,0 +1,517 @@
+.logo_img{
+    width:  316px;
+    height: 120px;
+}
+.icon1{
+    margin-top: 17px; 
+    margin-left: 70px;
+}
+.icon2{
+    margin-top: 17px; 
+    margin-left: 22px;
+}
+.email_h6{
+        margin-top: 17px;
+        font-family: Poppins;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 25.5px;
+        margin-left: 43px !important;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #061D3C !important;
+}
+.email_p{
+    margin-top:-16px !important;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    margin-left: 43px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #373737 !important; 
+}
+.phone_no_h6{
+    margin-top: 17px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #061D3C;
+}
+.phone_no_p{
+    margin-top:-16px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #373737;
+}
+/* nav..................................... */
+.nav_a>.nav-link{
+    color: white;
+    
+}
+.nav_main{
+    margin-left: 75px;
+    background-color: navy;
+    border-top-left-radius: 37px;
+}
+
+
+/* ..................about us............................ */
+
+ .abt_us .bindu_travels{
+    color: #EF6701 !important;
+    font-size: 30px; 
+}
+ .abt_us .our_story{
+    color: #EF6701;
+    font-size: 20px;
+}
+ .abt_us .view_more_btn{
+    border: none;
+    color: #15519D;
+    float: right;
+}
+
+/* ........services.............. */
+
+.services{
+        background-image: url(Images/backserviimage.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: auto;
+        padding-bottom: 20px;
+        /* width: 100%; */
+}
+
+.our_services{
+    text-align: center;
+    padding: 10px;
+    font-size: 33px;
+    color: #061D3C;
+}
+.join_us{
+    text-align: center;
+    font-size: 30px;
+    color: #EF6701;
+}
+.embark{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #3D3D3D;
+}
+.customoised{
+    max-width: 540px; border-radius: 5px;
+    border-left: 2px solid #2977DA !important;
+    padding: 10px 0px !important;
+    box-shadow: 2px 2px 2px darkgray;
+    height: 215px;
+}
+.guided_tours{
+    max-width: 540px; border-radius: 5px;
+    border-left: 2px solid #2977DA !important;
+    padding: 10px 0px !important;
+    box-shadow: 2px 2px 2px darkgray;
+    height: 215px;
+}
+.travel_resources{
+    max-width: 540px;border-radius: 5px;
+    border-left: 2px solid #2977DA !important;
+    padding: 10px 0px !important;
+    box-shadow: 2px 2px 2px darkgray;
+    height: 215px;
+}
+/* .........our vehicles........... */
+.Vehicles{
+    text-align: center;
+    margin-top: 13px; 
+    /* width: 100%; */
+    font-size: xx-large;
+}
+.card{
+    width: 18rem; 
+    position: relative;
+}
+.card-title{
+    color: #00337D;
+}
+.card-img-top{
+    position: relative; 
+    left: 55px; 
+}
+/* ...........packages................... */
+.take_a_look{
+    color: #061D3C;
+    font-size: 33px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.most{
+    color: #EF6701;
+    font-size: 22px;
+    font-weight: 600; 
+}
+.There{
+    color: #3D3D3D;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+}
+.card_mysr_waynad{
+    background-image: url(Images/img\ \(2\).png);
+    height: 391px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 89%;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 20px;
+}
+.card-body_mysr_waynad{
+    color: white;
+    margin-top: 20px;
+    text-align: center !important;
+    position: absolute;
+    top: 245px;
+}
+.mysr_waynad_h5{
+    margin-bottom: .75rem; 
+    font-size: 1.25rem;
+}
+.mysr_book_btn{
+    font-size: 23px;
+    font-weight: 600;
+    padding: 5px 10px; 
+    border: 2px solid white;
+    border-radius: 30px;
+}
+.mysr_book_btn_a{
+    color: #EF6701;
+}
+.mysr_view_btn{
+    border-radius: 10px;
+    border: none;
+    margin-top: 8px;
+    background-color: #63AB45;
+}
+.mysr_view_btn_a{
+    color: aliceblue;    
+    margin-top: 10px;
+    background-color: #63AB45 !important;
+    color: white;
+}
+.package_view_btn{
+    background-color: #FFD000;
+    border-radius: 8px !important;
+    width: 89%;
+    margin-top: 10px;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-color: #FFD000;
+}
+.package_view_btn_a{
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+    font-size: 22px;
+}
+.mysr_ooty_main{
+    border-radius: 15px;
+    margin-top: 20px;
+    height: 215px !important; 
+    background-image: url(Images/img2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.mysr_ooty_h5{
+    color: white;
+    font-size: 23px;
+    margin-top: 99px;
+    text-align: center;
+}
+.mysr_ooty_view_btn{
+    background-color: #D06527;
+    color: white;
+    border: none;
+    margin-top: 0px;
+    position: relative;
+    top: -11px;
+}
+.mysr_ooty_view_btn_a{
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+}
+.mysr_ooty_book_btn{
+    color: #EF6701;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 30px;
+    float: right;
+    margin-top: -10px;
+}
+.mysr_ooty_book_btn_a{
+    color: #EF6701;
+}
+.mysr_coorg_main{
+    border-radius: 15px;
+    margin-top: 20px;
+    height: 215px !important; 
+    background-image: url(Images/Img_3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.mysr_coorg_h5{
+    color: white;
+    font-size: 23px;
+    margin-top: 99px;
+    text-align: center;
+}
+.mysr_coorg_view_btn{
+    background-color: #D06527;
+    color: white;
+    border: none;
+    margin-top: 0px;
+    position: relative;
+    top: -11px;
+}
+.mysr_coorg_view_btn_a{
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+}
+.mysr_coorg_book_btn{
+    color: #EF6701;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 30px;
+    float: right;
+    margin-top: -10px;
+}
+.mysr_coorg_book_btn_a{
+    color: #EF6701;
+}
+/* ..enquiry.... */
+.sumbit_btn{
+    background: orange;
+    margin-top: 13px;
+    border: 1px solid orange;
+    border-radius: 50px;
+}
+
+
+/* ............footer.............................. */
+.footer_main{
+    /* width: 100%; */
+    height: 275px;
+    top: 3291px;
+    gap: 0px;
+    opacity: 0px;
+    background: #061D3C;
+}
+.contact_infr_h5{
+    color: white;
+    background-color: #63AB45;
+    padding: 16px;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    text-align: center;
+}
+.phone_nmbr_h6{
+    color: #FFD000;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.phone_nmbr_p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.Address_h6{
+    color: #FFD000;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.Address_p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.footer_email_h6{
+    color: #FFD000;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.footer_email_p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+.rights_reserved{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+}
+
+/* .....mobile response................. */
+
+@media only screen and (max-width:628px){
+.logo_img_img{
+    width: 100%;
+}
+.icon1>img{
+    width: 16%;
+    margin-left: -63px;
+    margin-top: -6px;
+}
+.email_icon_text{
+    margin-top: -56px;
+    margin-left: 34px;
+}
+.icon2>img{
+    width: 16%;
+    margin-left: -15px;
+}
+.phone_icon_text{
+    margin-top: -59px;
+    margin-left: 74px;
+}
+.nav_main{
+    background-color: white;
+}
+
+.nav_a>.nav-link{
+    background-color: navy;
+    color: white;
+}
+.nav_tog{
+    margin-left: 195px;
+    margin-top: -57px;
+}
+.nav_icon{
+    font-size: 40px;
+}
+.Welcome_to,.bindu_travels{
+    text-align: center;
+}
+.services_top{
+    margin-left: 32px;
+    margin-top: -61px;
+}
+.services{
+   width: 103%;
+   height: 1566px;
+}
+.customoised{
+    margin-top: 14px;
+    margin-left: 24px;
+}
+.body_customoised{
+    margin-top: 20px;
+    margin-left: 28px;
+}
+
+.guided_tours{
+    margin-top: 158px;
+    margin-left: 25px;
+}
+.body_guided{
+    margin-top: 20px;
+    margin-left: 28px;
+}
+.travel_resources{
+    margin-top: 162px;
+    margin-left: 42px;
+}
+.body_travel{
+    margin-top: 20px;
+    margin-left: 28px;
+}
+.toyota_main{
+    margin-top: 5px;
+    margin-left: 31px;
+}
+.tempo_main{
+    margin-top: 12px;
+    margin-left: 31px;
+}
+.mini_bus_main{
+    margin-top: 12px;
+    margin-left: 31px;
+}
+.take_a_look_main{
+    margin-left: 42px;
+}
+.card_mysr_waynad, .package_view_btn , .mysr_ooty_main, .mysr_coorg_main{
+    margin-left: 42px;
+}
+.right_side_img_enquiry{
+    margin-left: 2px;
+    margin-top: -30px;
+}
+.footer_main{
+    height: 422px;
+}
+
+
+
+}
