@@ -1,6 +1,6 @@
 
 Demo Link:
-https://nithishbv.github.io/Bindu_Tour_And_Travels_Project/bindu_html_first_page.html
+https://nithishbv.github.io/Bindu_Tour_And_Travels_Project/Home_Page.html
 
 Contact Information:
 
