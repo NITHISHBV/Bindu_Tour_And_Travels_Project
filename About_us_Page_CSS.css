@@ -233,7 +233,7 @@
     word-spacing: 0px;
 }
 
-
+/*media query starts here...............................................................................................................  */
 @media only screen and (max-width:628px){
     .logo_img_img{
         width: 100%;
